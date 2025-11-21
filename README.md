@@ -37,6 +37,4 @@ MySQL
 Bootstrap 5
 JavaScript
 HTML5 / CSS3
-👤 Autor
 
-Projeto desenvolvido como teste técnico para vaga de estágio em desenvolvimento web.
